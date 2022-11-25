@@ -1,0 +1,9 @@
+=============================================
+==Your New Account Was Successfully Created==
+=============================================
+========= Montgomery Commercial Bank ========
+Account Holder:              grr rtrtr
+Account#:                    124000110
+Account type:                Savings
+=============================================
+

@@ -1,0 +1,9 @@
+=============================================
+==Your New Account Was Successfully Created==
+=============================================
+========= Montgomery Commercial Bank =========
+Account Holder:              ertre rtgre
+Account#:                    168000107
+Account type:                Savings
+=============================================
+

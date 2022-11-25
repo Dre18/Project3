@@ -1,0 +1,9 @@
+=============================================
+==Your New Account Was Successfully Created==
+=============================================
+========= Montgomery Commercial Bank ========
+Account Holder:              dfrg erwgrege
+Account#:                    135000114
+Account type:                Savings
+=============================================
+

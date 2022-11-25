@@ -1,0 +1,9 @@
+=============================================
+==Your New Account Was Successfully Created==
+=============================================
+========= Montgomery Commercial Bank =========
+Account Holder:              fer ewre
+Account#:                    124000109
+Account type:                Savings
+=============================================
+

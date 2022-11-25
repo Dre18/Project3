@@ -1,0 +1,9 @@
+=============================================
+==Your New Account Was Successfully Created==
+=============================================
+========= Montgomery Commercial Bank ========
+Account Holder:              John Brown
+Account#:                    124000108
+Account type:                Savings
+=============================================
+
